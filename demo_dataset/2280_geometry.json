@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "source_file": "2280_model.iges",
+  "bounding_box_mm": {
+    "length_x": 100.0,
+    "width_y": 60.0,
+    "height_z": 10.0
+  },
+  "volume_mm3": 54847.788,
+  "surface_area_mm2": 15803.186,
+  "solid_count": 0,
+  "shell_count": 0,
+  "face_count": 11,
+  "edge_count": 54,
+  "vertex_count": 44,
+  "imported_object_count": 1,
+  "volume_reliability": "limited",
+  "warning": "The IGES geometry was not recognized as a formally closed solid. Bounding-box dimensions and surface area were extracted, but the volume should be treated as potentially unreliable."
+}
